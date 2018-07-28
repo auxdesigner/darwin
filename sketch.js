@@ -35,7 +35,7 @@ function updateSliders() {
 }
 
 function modelReady() {
-  $('#status').html('Darwin is ready to chat.');
+  $('#status').html('Darwin is ready.');
 }
 
 function scroll() {
